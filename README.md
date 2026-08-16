@@ -1,5 +1,4 @@
-<img width="838" height="140" alt="image" src="https://github.com/user-attachments/assets/0f721176-1d0b-4f2a-bcd6-4052c2fa8140" />
-
+<img width="838" height="140" alt="image" src="https://github.com/user-attachments/assets/45c558b9-c911-4564-a44a-1514cfe3ba63" />
 
 javascript to toggle pin the selected cell
 
