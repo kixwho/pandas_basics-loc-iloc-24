@@ -11,6 +11,11 @@
 * Part 1: tricky iloc slicing
 * Part 2: loc filtering — one of the workhorses of pandas
 
+## Quick Pointers
+
+* .iloc slicing: stop is excluded
+* .loc slicing: stop is included
+
 ## How to Use
 
 1. Download the [data table](https://github.com/kixwho/pandas_basics-loc-iloc-24/blob/main/flight_time.xlsx) and [problem set workbook](https://github.com/kixwho/pandas_basics-loc-iloc-24/blob/main/loc-iloc-24.ipynb).
